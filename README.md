@@ -1,5 +1,11 @@
 # trAIner
 ![trAIner_3조](https://github.com/ssuummm/trAIner/assets/139437305/7457332a-c4d7-4195-986e-8a6ccc594abf)
-
-
 ![trAIner_3조](https://github.com/ssuummm/trAIner/assets/139437305/94af1460-5a30-4ff6-a449-8dc2d9ddc963)
+![Senario](https://github.com/ssuummm/trAIner/assets/139437305/e964a984-cf66-44f9-9553-8182beecce92)
+![Libraries](https://github.com/ssuummm/trAIner/assets/139437305/00c03fd4-0f07-4eea-936b-9e70dda2d3bc)
+![Dataset](https://github.com/ssuummm/trAIner/assets/139437305/aecdd886-9af9-4973-9b6f-8eb346e5a0bc)
+![CNN+LSTM](https://github.com/ssuummm/trAIner/assets/139437305/929f298f-ba82-4ac2-a68a-1880dd79dc2f)
+![LSTM Using Coordinates of Landmarks](https://github.com/ssuummm/trAIner/assets/139437305/1e83bbc6-f9ae-48ef-8665-51ac629235a3)
+![LSTM Using Angles between Landmarks](https://github.com/ssuummm/trAIner/assets/139437305/f9fef03e-9bc5-4155-a6ed-a3f7bdd91afc)
+![Model Pipeline](https://github.com/ssuummm/trAIner/assets/139437305/f45744b9-e170-4ae0-9596-9869dc9f76e6)
+![Count](https://github.com/ssuummm/trAIner/assets/139437305/9bf44d9c-4b56-40a7-967e-d6099b67b6ce)
